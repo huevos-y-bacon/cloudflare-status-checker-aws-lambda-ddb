@@ -84,8 +84,8 @@ The deployment can be customized using the following Terraform input variables:
 
 Initial Alert email:
 
-![Alert email screenshot](../i/alert-email.png)
+![Alert email screenshot](./i/alert-email.png)
 
 CloudWatch logs - shows no repeated alerts, due to DDB tracking:
 
-![CloudWatch logs no-repeat screenshot](../i/cw_logs_no_repeats.png)
+![CloudWatch logs no-repeat screenshot](./i/cw_logs_no_repeats.png)
