@@ -89,3 +89,7 @@ Initial Alert email:
 CloudWatch logs - shows no repeated alerts, due to DDB tracking:
 
 ![CloudWatch logs no-repeat screenshot](./i/cw_logs_no_repeats.png)
+
+Next alert email - only new ones:
+
+![Alert email screenshot](./i/alert-email-next.png)
