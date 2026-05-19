@@ -1,0 +1,9 @@
+*.zip
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+.terraform/
+*.log
+*.tfvars
+*.tfvars.*
+
